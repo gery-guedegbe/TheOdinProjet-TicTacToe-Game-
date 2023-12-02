@@ -1,1 +1,1 @@
-# The-Odin-Projet-Tic-Tac-Toe-Game-
+# The Odin Projet :TicTac Toe Game
