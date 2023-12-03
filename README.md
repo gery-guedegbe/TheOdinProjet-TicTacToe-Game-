@@ -2,4 +2,4 @@
 
 Jeu Tic Tac Toe developper avec du HTML, CSS et JavaScript.
 
-Resultat : https://github.com/gery-guedegbe/TheOdinProjet-TicTacToe-Game-.git
+Resultat : https://gery-guedegbe.github.io/TheOdinProjet-TicTacToe-Game-/
